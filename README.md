@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Halo, Saya M. Ali Ramadhan👋
-<!--
+
 ### Introduction
 Saya adalah seeorang mahasiswa jurusan teknik elektro dan AI developer yang sangat tertarik dengan perkembangan AI terutama berbasis elektro.
 
