@@ -18,5 +18,3 @@ Saya adalah seeorang mahasiswa jurusan teknik elektro dan AI developer yang sang
 ### ⚡ Fun Facts
 - 💡 Saya sangat suka kopi sambil ngoding.
 - 💬 "Talk is cheap. Show me the code." - Linus Torvalds
-
-**aliramdhn21/aliramdhn21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
